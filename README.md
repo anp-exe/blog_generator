@@ -1,6 +1,6 @@
 # [Blog Generator with OpenAI and Python](blog_generator.py)
 
-> A project from [Codedex](https://www.codedex.io).
+> A project from [Codedex](https://www.codedex.io/projects/generate-a-blog-with-openai).
 
 A command-line blog generator that uses GPT-3 to write paragraphs on any topic you give it. Enter a topic, get a paragraph — repeat as many times as you want.
 
