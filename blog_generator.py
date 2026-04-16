@@ -15,7 +15,9 @@ def generate_blog(paragraph_topic):
 
     return response.choices[0].text.strip()
 
-print(generate_blog('Why I love my boyfriendddd'))
+topic = input('What should the topic of the blog be?: ')
+
+print(generate_blog(topic))
 
 keep_writing = True
 
